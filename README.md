@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jinsar Ali!
 
-👨‍🎓 Computer Science Student | 💻 Web Developer
+👨‍🎓 Computer Science Student | 💻 Full Stack developer | MERN Stack Developer | Fronted Developer| React Developer
 
 Welcome to my GitHub profile! I'm passionate about web development and constantly expanding my knowledge in this exciting field. Here's a bit about me:
 
